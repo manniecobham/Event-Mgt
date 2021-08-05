@@ -1,5 +1,5 @@
-# Leave-Request
-Leave request PowerApps application.
+# Event-Mgt
+Event Management PowerApps application.
 PowerApps application for Office 365.
 Used to track event schedules and activities.
 Replaces the excessive tasks on janitors and other handy jobs.
